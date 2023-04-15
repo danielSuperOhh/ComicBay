@@ -1,0 +1,111 @@
+.related{
+    width: 100%;
+    padding: 40px 90px;
+    padding-top: 100px;
+}
+
+.card_container{
+    width: 100%;
+    height: 400px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.comic_card{
+    width: 23%;
+    height: 100%;
+    /* padding-bottom: 20px; */
+}
+
+.comic_card_6{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card6.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.comic_card_7{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card7.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.comic_card_8{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card8.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.comic_card_9{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.comic_card_10{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card10.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.comic_card_11{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card11.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.comic_card_12{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card12.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.comic_card_13{
+    width: 100%;
+    height: 80%;
+    background: url("../../../assets/card13.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.comic_info{
+    padding-left: 30px;
+}
+
+.first_p{
+    font-size: 1rem;
+}
+
+.second_p{
+    font-size: .975rem;
+    color: rgb(66, 65, 65);
+}
+
+.third_p{
+    font-size: 1rem;
+    color: rgb(229, 3, 3);
+    padding-top: 10px;
+}

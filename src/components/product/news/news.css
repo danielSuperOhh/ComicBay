@@ -1,0 +1,55 @@
+.news{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(234, 228, 161);
+    position: relative;
+}
+
+.news_text{
+    width: 100%;
+    height: 100%;
+    padding: 100px 0px 1px 150px;
+}
+
+.news_text_head{
+    z-index: 3;
+}
+
+.news_text p{
+    font-size: 2.7rem;
+}
+
+.news_text h1{
+    font-size: 3rem;
+    color: rgb(219, 4, 4);
+}
+
+.textbox{
+    z-index: 3;
+}
+
+.textbox input{
+    border: none;
+    background: none;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+    outline: none;
+    width: 350px;
+    margin-right: 20px;
+}
+
+.textbox input::placeholder{
+    font-size: 1rem;
+}
+
+.spiderman{
+    width: 300px;
+    height: 80%;
+    background: url("../../../assets/hangingspider.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    margin-top: -310px;
+}
